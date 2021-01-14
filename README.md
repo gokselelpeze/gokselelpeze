@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gokselelpeze)](https://github.com/ryo-ma/github-profile-trophy)
-
+- 🔭 I’m currently studying at Dokuz Eylül University
+- 🌱 I’m currently learning PHP - MySQL
+- 📫 How to reach me: gokselelpeze@gmail.com
 
 <!--
 **gokselelpeze/gokselelpeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently studying at Dokuz Eylül University
+- 🌱 I’m currently learning PHP - MySQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: gokselelpeze@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
