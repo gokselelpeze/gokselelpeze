@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently studying at Dokuz Eylül University
-- 🌱  I’m currently learning PHP - MySQL
+- 🌱  I’m currently learning Data Science
 - 📫  How to reach me: gokselelpeze@gmail.com
 
 <!--
