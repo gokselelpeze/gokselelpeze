@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently studying at Dokuz Eylül University
-- 🌱  I’m currently learning Data Science
+- 🌱  I’m currently learning Web Development
 - 📫  How to reach me: gokselelpeze@gmail.com
 
 <!--
