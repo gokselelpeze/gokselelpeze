@@ -35,6 +35,8 @@
 <details>
   <summary>📈  My GitHub Stats</summary>
 
+  <br>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokselelpeze&layout=compact&theme=radical)](https://github.com/gokselelpeze/github-readme-stats)
 
   ![Göksel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokselelpeze&show_icons=true&theme=radical&count_private=true)
