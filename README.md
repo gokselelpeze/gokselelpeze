@@ -14,15 +14,14 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="40" height="40" />][node]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />][javascript]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" />][aws]
-[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />][gcp]
-[<img src="https://img.icons8.com/color/25/000000/firebase.png" alt="firebase" width="40" height="40" />][firebase]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />][docker]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphql" width="40" height="40" />][graphql]
+[<img src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" alt="dynamodb" width="40" height="40" />][dynamodb]
 [<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Postgresql" width="40" height="40" />][mysql]
 [<img src="https://img.icons8.com/color/25/000000/postgreesql.png" alt="Postgresql" width="40" height="40" />][postgresql]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40" />][vscode]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />][docker]
 
 
-## Contact with me: 
+## Connect with me: 
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="gokselelpeze | LinkedIn" width="40px" align="left" />][linkedin]
 [<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="gokselelpeze | HackerRank" width="40px" align="left" />][hackerrank]
@@ -59,11 +58,11 @@
 [javascript]: https://www.javascript.com
 [flutter]: https://flutter.dev
 [aws]: https://aws.amazon.com
-[gcp]: https://cloud.google.com
+[graphql]: https://graphql.org/
 [firebase]: https://firebase.google.com
 [docker]: https://www.docker.com
 [postgresql]: https://www.postgresql.org
-[vscode]: https://code.visualstudio.com
+[dynamodb]: https://aws.amazon.com/tr/dynamodb/
 [net]: https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet
 <!--
 **gokselelpeze/gokselelpeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
