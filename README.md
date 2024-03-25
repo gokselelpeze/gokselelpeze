@@ -1,6 +1,6 @@
 ## Hi there I'm Göksel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-### - 🔭  I’m currently working at Masraff
+### - 🔭  I’m currently working at Trendyol
 ### - 🌱  I’m interested in Backend Development and Serverless
 
 ## Languages and Tools:
